@@ -12,3 +12,6 @@ Your can change the R2 resistance to change the charge current,I = 1100/ R2.
 
 ![image](https://github.com/sethome2/TP5400_tested_PCB/blob/main/Schematic_TP5400%E7%94%B5%E6%B1%A0%E5%85%85%E7%94%B5%E5%99%A8%E6%B5%8B%E8%AF%95%E6%9D%BF_2021-06-20.png)
  
+#Reality PCB
+![image](https://github.com/sethome2/TP5400_tested_PCB/blob/main/RealityPCB.JPG)
+ 
